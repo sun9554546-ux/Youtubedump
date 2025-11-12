@@ -5,4 +5,5 @@ SpeechRecognition
 deep-translator
 gTTS
 moviepy
+langdetect
 pydub
