@@ -1,6 +1,6 @@
-streamlit
 yt-dlp
 ffmpeg-python
-SpeechRecognition
+speechrecognition
 deep-translator
-gTTS
+gtts
+streamlit
