@@ -1,5 +1,8 @@
 streamlit
 yt-dlp
+ffmpeg-python
+SpeechRecognition
+deep-translator
+gTTS
 moviepy
-whisper
-torch
+pydub
