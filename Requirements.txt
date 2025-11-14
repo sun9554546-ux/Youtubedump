@@ -1,6 +1,6 @@
+streamlit
 yt-dlp
-ffmpeg-python
-speechrecognition
+openai
 deep-translator
 gtts
-streamlit
+langdetect
